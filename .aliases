@@ -78,3 +78,7 @@ alias bashrc="nano ~/.bashrc"
 alias load_profile="source ~/.profile"
 
 alias ffs="sudo !!"
+
+alias update=" sudo apt-get update "
+
+alias upgrade=" sudo apt-get upgrade "
