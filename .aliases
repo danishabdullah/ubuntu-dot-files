@@ -83,4 +83,4 @@ alias update=" sudo apt-get update "
 
 alias upgrade=" sudo apt-get upgrade "
 
-alias rm="trash-rm"
+alias rm="trash-put"
